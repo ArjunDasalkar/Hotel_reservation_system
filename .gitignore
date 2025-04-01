@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+.env
+hotel_reservation_frontend/node_modules/
+hotel_reservation_backend/node_modules/
+hotel_reservation_frontend/.vite
+hotel_reservation_frontend/dist
+
+# Logs
+*.log
